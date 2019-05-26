@@ -6,8 +6,10 @@
         <title>Picture Demo</title>
         <link href="site.css" rel="stylesheet" />
     </head>
-    <body class-"center">
-        <h1>Hello Azure Web Sites</h1>
-        <img id="bouncingImage" src="./1.jpg" alt="Picture" >
+    <body>
+        <div style="text-align:center">
+            <h1>Hello Azure Web Sites</h1>
+            <img id="bouncingImage" src="./1.jpg" alt="Picture" >
+        </div>
     </body>
 </html>
