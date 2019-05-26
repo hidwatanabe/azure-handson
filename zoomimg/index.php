@@ -8,6 +8,6 @@
     </head>
     <body>
         <h1>Hello Azure Web Sites</h1>
-        <img id="bouncingImage" src="bird.jpg" alt="Picture" >
+        <img id="bouncingImage" src="./1.jpg" alt="Picture" >
     </body>
 </html>
