@@ -6,13 +6,15 @@ body {
     font-style: normal;
     font-size: 14px;
     font-family: "Montserrat", Helvetica, Arial, serif;
-    margin: auto;
 }
 
 h1 {
     font-style: normal;
     font-family: "Montserrat", Helvetica, Arial, serif;
-    margin: auto;
+}
+
+.center {
+    text-align: center;
 }
                 
 #bouncingImage {
