@@ -6,15 +6,20 @@ body {
     font-style: normal;
     font-size: 14px;
     font-family: "Montserrat", Helvetica, Arial, serif;
-    margin: auto
+    margin: auto;
 }
 
-h1 { color: #0094ff; }
+h1 {
+    font-style: normal;
+    font-family: "Montserrat", Helvetica, Arial, serif;
+    margin: auto;
+}
                 
 #bouncingImage {
 width: 720px;
 height: 450px;
 box-shadow: 2px 2px 5px 0px gray;
+margin: auto;
 animation-duration: 2s;
 animation-timing-function: ease-in-out;
 animation-fill-mode: forwards;
